@@ -1,0 +1,46 @@
+REMARK  Energy: 17.7947
+REMARK  SimpleFitness: 17.7947
+REMARK  FullFitness: -954.47894
+REMARK  InterFull: -14.7561
+REMARK  IntraFull: 52.4022
+REMARK  solvFull: -1152.81
+REMARK  surfFull: 160.685
+REMARK  extraFull: 0.0
+REMARK  deltaGcompsolvpol: -1152.81
+REMARK  deltaGcompsolvnonpol: 160.685
+REMARK  deltaGprotsolvpol: -1144.85
+REMARK  deltaGprotsolvnonpol: 159.059
+REMARK  deltaGligsolvpol: -20.883
+REMARK  deltaGligsolvnonpol: 9.79619
+REMARK  deltaGvdw: -14.7561
+REMARK  deltaGelec: 0.0
+REMARK  deltaG: -5.367945
+REMARK  Cluster: 31
+REMARK  ClusterRank: 5
+ATOM   3613 F1   LIG     1      14.037   2.439  -1.358  1.00  0.00      LIG
+ATOM   3614 F2   LIG     1      14.527   3.677  -3.060  1.00  0.00      LIG
+ATOM   3615 F3   LIG     1      14.559   4.990  -0.732  1.00  0.00      LIG
+ATOM   3616 F4   LIG     1      15.940   3.612   0.183  1.00  0.00      LIG
+ATOM   3617 F5   LIG     1      15.304   1.145  -3.325  1.00  0.00      LIG
+ATOM   3618 F6   LIG     1      16.974   2.502  -3.338  1.00  0.00      LIG
+ATOM   3619 F7   LIG     1      17.908   4.311  -1.672  1.00  0.00      LIG
+ATOM   3620 F8   LIG     1      16.480   5.497  -2.781  1.00  0.00      LIG
+ATOM   3621 F9   LIG     1      17.603   1.774  -0.708  1.00  0.00      LIG
+ATOM   3622 F10  LIG     1      15.822   0.532  -0.612  1.00  0.00      LIG
+ATOM   3623 F11  LIG     1      16.053   7.162  -0.665  1.00  0.00      LIG
+ATOM   3624 F12  LIG     1      18.133   6.995  -1.213  1.00  0.00      LIG
+ATOM   3625 F13  LIG     1      18.157  -0.871  -1.159  1.00  0.00      LIG
+ATOM   3626 F14  LIG     1      18.514   0.334  -2.949  1.00  0.00      LIG
+ATOM   3627 F15  LIG     1      16.754  -0.962  -2.829  1.00  0.00      LIG
+ATOM   3628 O1   LIG     1      18.556   5.198   0.923  1.00  0.00      LIG
+ATOM   3629 O2   LIG     1      16.805   6.347   1.768  1.00  0.00      LIG
+ATOM   3630 C1   LIG     1      15.088   3.060  -1.975  1.00  0.00      LIG
+ATOM   3631 C2   LIG     1      15.612   4.171  -1.016  1.00  0.00      LIG
+ATOM   3632 C3   LIG     1      16.042   1.950  -2.510  1.00  0.00      LIG
+ATOM   3633 C4   LIG     1      16.778   5.060  -1.522  1.00  0.00      LIG
+ATOM   3634 C5   LIG     1      16.745   1.044  -1.476  1.00  0.00      LIG
+ATOM   3635 C6   LIG     1      17.105   6.296  -0.642  1.00  0.00      LIG
+ATOM   3636 C7   LIG     1      17.539  -0.113  -2.109  1.00  0.00      LIG
+ATOM   3637 C8   LIG     1      17.441   5.961   0.800  1.00  0.00      LIG
+ATOM   3638 H1   LIG     1      18.731   5.013   1.870  1.00  0.00      LIG
+TER

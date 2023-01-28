@@ -1,0 +1,74 @@
+* ---- 
+* Built parameters for tmpE7qZWE.mol2 
+*    by user swissdock     Sat Jan 28 18:38:08 CET 2023 
+* ---- 
+*
+
+BONDS
+F    CR    432.589     1.3600 
+OR   C=O   417.476     1.3550 
+OR   HOCO  532.766     0.9810 
+O=C  C=O   931.963     1.2220 
+CR   CR    306.432     1.5080 
+CR   C=O   301.539     1.4920 
+
+ANGLES
+C=O  OR   HOCO   41.956    111.9480 
+F    CR   F     117.880    106.0810 
+F    CR   CR     88.158    108.3130 
+CR   CR   CR     61.243    109.6080 
+F    CR   C=O    85.567    110.3280 
+CR   CR   C=O    55.917    107.5170 
+OR   C=O  O=C    83.120    124.4250 
+OR   C=O  CR     75.060    109.7160 
+O=C  C=O  CR     67.504    124.4100 
+
+DIHEDRALS
+F    CR   CR   F       -0.194  1     0.00 
+F    CR   CR   F       -0.272  2   180.00 
+F    CR   CR   F        0.703  3     0.00 
+F    CR   CR   CR       0.296  1     0.00 
+F    CR   CR   CR       0.331  2   180.00 
+F    CR   CR   CR       0.560  3     0.00 
+F    CR   CR   C=O      0.150  3     0.00 
+F    CR   C=O  OR       0.200  2   180.00 
+F    CR   C=O  OR       0.150  3     0.00 
+F    CR   C=O  O=C      0.200  2   180.00 
+F    CR   C=O  O=C      0.200  3     0.00 
+OR   C=O  CR   CR      -0.059  1     0.00 
+OR   C=O  CR   CR      -0.167  2   180.00 
+OR   C=O  CR   CR       0.101  3     0.00 
+O=C  C=O  OR   HOCO     0.831  1     0.00 
+O=C  C=O  OR   HOCO     3.076  2   180.00 
+O=C  C=O  OR   HOCO    -0.029  3     0.00 
+O=C  C=O  CR   CR       0.412  1     0.00 
+O=C  C=O  CR   CR       0.070  2   180.00 
+O=C  C=O  CR   CR       0.163  3     0.00 
+CR   CR   CR   CR       0.051  1     0.00 
+CR   CR   CR   CR       0.341  2   180.00 
+CR   CR   CR   CR       0.166  3     0.00 
+CR   CR   CR   C=O      0.033  1     0.00 
+CR   CR   CR   C=O     -0.078  2   180.00 
+CR   CR   CR   C=O      0.071  3     0.00 
+CR   C=O  OR   HOCO    -0.583  1     0.00 
+CR   C=O  OR   HOCO     2.539  2   180.00 
+CR   C=O  OR   HOCO    -0.273  3     0.00 
+
+IMPROPER
+CR   CR   F    CR       0.000  0     0.00 
+CR   CR   F    F        0.000  0     0.00 
+CR   CR   CR   F        0.000  0     0.00 
+CR   F    CR   F        0.000  0     0.00 
+CR   C=O  CR   F        0.000  0     0.00 
+C=O  OR   CR   O=C     10.147  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+F       0.000000  -0.135000     1.630000    
+OR      0.000000  -0.152100     1.770000    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+CR      0.000000  -0.055000     2.175000   0.000000  -0.010000     1.900000    
+C=O     0.000000  -0.110000     2.000000    
+HOCO    0.000000  -0.046000     0.224500    
+
+
